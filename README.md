@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FriedChickenWithRice
-- 👀 I’m interested in ...
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can email me on fachriibraghimov119@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: i love roblox
 
