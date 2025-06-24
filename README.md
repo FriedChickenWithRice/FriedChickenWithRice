@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can email me on fachriibraghimov119@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: i love roblox
+- ⚡ Fun fact: i love learning new things
 
 <!---
 FriedChickenWithRice/FriedChickenWithRice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
